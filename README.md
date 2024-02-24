@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @swap54
-- 👀 I’m interested in competetive-coding, development and exploring new fields and learning along.
-- 🌱 I’m currently learning web-development and working on java and cpp projects.
-- 💞️ I’m looking to collaborate on web development and IOT.
+- 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me=> krswapnil84@gmail.com
 
 <!---
